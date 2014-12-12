@@ -13,6 +13,14 @@ body{
 	padding:10px;
 }
 
+h5{
+	font-size: 14px;
+	color: white;
+}
+
+footer{
+	padding: 30px;
+}
 .item {
 			text-align:center;
 			float:left;
