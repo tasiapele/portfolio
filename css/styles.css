@@ -126,22 +126,22 @@ li{
 
 /* Base Nav Styling */
 nav{
-  background: #F7F7F7;
-  color: #B10000;
+  color: white;
+  font-size: 18px;
 
 }
 
 nav li {
   float: right;
   list-style: none;
-  margin: 12px 10px 12px 0px;
-  color:#B10000;
+  margin: 10px;
+  color:white;
 }
  
 /* Link States */
 nav a:link,
 nav a:visited {
-  color: ;
+  color: red;
   padding: 10px 10px 10px 10px;
   text-decoration: none;
   color: #B10000;
@@ -149,7 +149,7 @@ nav a:visited {
  
 nav a:hover,
 nav a:active {
-  background: #B10000;
+  background: white;
 
 }
 
